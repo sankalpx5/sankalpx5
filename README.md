@@ -13,6 +13,4 @@ Directory: /home/sankalp              Shell: /usr/bin/bash
 Skills:
   Python, C, Java, AWS, Docker
 
- ~$ ls socials
- <a href="mailto:sankalps110@gmail.com">Gmail</a> | <a href="linkedin.com/in/sankalpxsingh">LinkedIn</a>
 </pre>
