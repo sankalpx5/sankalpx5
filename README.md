@@ -11,7 +11,7 @@ Login: sankalpx5                      Name: Sankalp Singh
 Directory: /home/sankalp              Shell: /usr/bin/bash
   
 Skills:
-  Python, C, Java, AWS, Docker
+  Python, C, Java, Linux, AWS, Docker, Git
 
 </pre>
 
