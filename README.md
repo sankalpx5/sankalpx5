@@ -14,3 +14,5 @@ Skills:
   Python, C, Java, AWS, Docker
 
 </pre>
+
+![chrom-dino-clip](assests/chrome-dino.gif) 
